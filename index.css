@@ -1,0 +1,7 @@
+#parent {
+  color: red;
+  background-color: blue;
+  border: 1px red solid;
+  width: 200px;
+  border-radius: 20px;
+}
